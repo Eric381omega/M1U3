@@ -1,0 +1,46 @@
+body {
+  background-color: #F7F9F2;
+  margin: 0;
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.fontColor {
+  color: #1A2130;
+}
+
+img {
+  width: 250px
+}
+
+li {
+  background: #FF6969;
+  margin-right: 600px;
+  margin-left: 600px;
+}
+
+hr {
+  border: dotted #C80036 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+#Parrafo {
+  color: grey;
+}
+
+a:hover {
+  color: white;
+}
+
+#Cabezera {
+  background-color: #C80036;
+  padding-top: 50px;
+}
+
+footer {
+  background-color: #C80036;
+  padding-bottom: 50px;
+}
